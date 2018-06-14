@@ -26,6 +26,6 @@
 ![3.png](https://upload-images.jianshu.io/upload_images/6426975-c528ea9b501b393d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 安装依赖成功（等了大概10几分钟，比较慢...），模板已下载完成~
 ![提示.png](https://upload-images.jianshu.io/upload_images/6426975-4be6b11c8202358f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-提示进入到项目目录todolist，命令行输入```npm run dev```，进行开发环境启动：![npm run dev.png](https://upload-images.jianshu.io/upload_images/6426975-6dfa973f5f5f1ef7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+提示进入到项目目录todolist，命令行输入```npm run dev```进行开发环境启动：![npm run dev.png](https://upload-images.jianshu.io/upload_images/6426975-6dfa973f5f5f1ef7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 然后vue.js就跑起来啦~：![运行一下.png](https://upload-images.jianshu.io/upload_images/6426975-431dda109c632bff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
